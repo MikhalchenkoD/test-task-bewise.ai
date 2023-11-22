@@ -9,8 +9,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/MikhalchenkoD/Bewise.ai.git
-    cd Bewise.ai
+    git clone https://github.com/MikhalchenkoD/test-task-bewise.ai.git
+    cd test-task-bewise.ai.git
     ```
 
 2. Сборка и запуск контейнеров с приложением и базой данных:
