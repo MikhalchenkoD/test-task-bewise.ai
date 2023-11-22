@@ -10,7 +10,7 @@
 
     ```bash
     git clone https://github.com/MikhalchenkoD/test-task-bewise.ai.git
-    cd test-task-bewise.ai.git
+    cd test-task-bewise.ai
     ```
 
 2. Сборка и запуск контейнеров с приложением и базой данных:
